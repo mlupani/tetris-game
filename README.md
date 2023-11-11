@@ -1,1 +1,1 @@
-# tetris-game
+# tetris-game with Vite and Vainilla JS
